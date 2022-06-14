@@ -16,7 +16,7 @@ $(document).ready(function() {
         })
     });
 
-    
+
     $(".col7 ul").slick({
         // slidesToScroll : 1,
         autoplay : true,

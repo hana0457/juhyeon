@@ -129,11 +129,7 @@
     .col6 .box{
         display: block;
         margin: 0;
-        box-sizing: border-box;
-        border: 1px solid #e8e4f1;
         width: 80%;
-        background-color: #e8e4f1;
-        background-color: #fff;
         z-index: 1;
     }
     
@@ -169,6 +165,10 @@
     .col6 .box .download p:hover{
         border-bottom: 2px solid #e8e4f1;
         font-weight: bold;
+    }
+    .col6 .box-wrap .down .app p{
+        margin-left: 3px;
+        margin-right: 10px;
     }
 
     .col7 h3{
