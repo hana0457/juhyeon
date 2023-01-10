@@ -12,12 +12,14 @@ img{vertical-align: top;}
 button,input,select{border: 0; background-color:  transparent;}
 
 #wrapper{
-    max-width: 375px;
-    min-width: 375px;
-    /* margin: 0 auto; */
+    width: 100%;
+    height: auto;
 }
 .wrap{
     font-family: 'jeju Gothic';
+    max-width: 375px;
+    min-width: 375px;
+    margin: 0 auto;
 }
 header{
     position: relative;
